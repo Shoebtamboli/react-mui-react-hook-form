@@ -29,3 +29,6 @@ Skeleton of Controller component
 {/_ Option 1: pass a component to the Controller. _/}
 
 {/_ Option 2: use render props to assign events and value _/}
+
+### To open the app in browser 
+Click on [react-mui-react-hook-form](https://shoebtamboli.github.io/react-mui-react-hook-form) to view it in the browser.
